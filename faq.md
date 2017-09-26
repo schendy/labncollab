@@ -73,7 +73,7 @@ Pour le détail on a fait une page spécialement pour ça : [Prépare ton escapa
 
 Une dizaine de kilomètres max dans la journée.
 
-On a calculé ça en se disant qu’on allait marcher 4 à 6 fois 15 min dans la journée.
+On a calculé ça en se disant qu’on allait marcher 4 fois 20 min et une marhce un poil plus longue dans la journée.
 
 ### Je m'inscris où ?
 
