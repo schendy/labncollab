@@ -19,7 +19,7 @@ En explorant des lieux insolites dans Rennes, nous allons échanger sur l'usage 
 
 ### C'est quand et où ?
 
-La marche commencera le ???? à Rennes à 9h à ?????. La journée se termine vers 18h00, le reste pourra se poursuivre dans toujours plus d'informel. 
+La marche commencera le 6 octobre à Rennes à 9h au Petit Bacchus, 42, rue vasselot. La journée se termine vers 18h00, le reste pourra se poursuivre dans toujours plus d'informel. 
 
 ### C'est quoi un walkingdev
 
@@ -87,9 +87,9 @@ Tu peux aussi nous envoyer un petit mail : xcoadic@prontonmail.com
 
 ### Ça coûte combien cette petite escapade ?
 
-Environ 20 euros pour te nourrir et te désaltérer lors d'une halte déjeuner puis café ou boissons fraîche. Ceci est à la charge de chaque participant.
+Environ 20 euros pour te nourrir et te désaltérer lors d'une halte déjeuner et café ou boissons fraîche. Ceci est à la charge de chaque participant.
 
-Pour le coût pédagogique de cette journée, c'est participation consciente. Autrement dit, chacun donne ce qui lui semble juste en fin de journée, c'est de votre responsabilité. 
+Pour l'investissement de préparation et le coût pédagogique de cette journée, c'est participation consciente. Autrement dit, chacun donne ce qui lui semble juste en fin de journée, c'est de votre responsabilité. 
 
 Et si c’est trop cher pour moi ?
 
