@@ -1,7 +1,7 @@
 ---
 title: Récit de la première session
 description: Voici un court résumé de ce que nous avons fait à cette occasion.
-image_url: https://cdn.pixabay.com/photo/2015/02/02/18/55/salad-621339_1280.jpg
+image_url:
 ---
 
 # Récit session 1
