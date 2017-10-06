@@ -1,3 +1,9 @@
+---
+title: Récit de la première session
+description: Voici un court résumé de ce que nous avons fait à cette occasion.
+image_url: https://cdn.pixabay.com/photo/2015/02/02/18/55/salad-621339_1280.jpg
+---
+
 # Récit session 1
 
 Nous sommes partis de l 'hôtel Pasteur en direction de la rue st malo puis du square de la Rance a la recherche de champignons rouges.
