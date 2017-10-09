@@ -26,8 +26,8 @@ Nous sommes partis de l 'hôtel Pasteur en direction de la rue st malo puis du s
 + Qu'est-ce que le cool et le fun (ou est-ce qu'il y a d'autres choses ? )
 + Ce qu'est la collaboration pour chacun des participants
 + Le fork c'est deux personnes qui collaborent pour faire un bébé. Et fabriquer ce ["bébé"](http://walkingdev.fr/#walkingdev/labncollab/blob/master/README.md) sur internet.
-+ Walkingdeav famillial enfant, parent, grand parent.
-+ Creation de la prochaine walking deav, une urbexdeav.
++ Walkingdeav ffamiliale enfant, parent, grand-parent.
++ Création de la prochaine walkingdev: une urbexdev ?
 
 ## Les ateliers:
 
